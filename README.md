@@ -6,7 +6,7 @@
 - [Jeremy's post](https://publish.obsidian.md/jeremyparadie/%F0%9F%8C%90+Website/MDEF/MDEF+Academy/Micro+Challenge+1)
 
 ## Concept
-I was interested in flexures as an inexpensive alternative to precision linear rails in machine tools. This video had me interested [XY HiPER NaP - YouTube](https://youtu.be/AJ7IHvOEr2o?t=15). I had no experience with flexures, so, with Santi's approval, I decided to model a bunch of different flexure configurations to be cut with a laser to provide me some intuition for how the parameters effect flexure performance.
+I was interested in flexures as an inexpensive alternative to precision linear rails in machine tools. This video had me interested [XY HiPER NaP - YouTube](https://youtu.be/AJ7IHvOEr2o?t=15). I had no experience with flexures, so, with Santi's approval, I decided to model a bunch of different flexure configurations to be cut with a laser to provide me some intuition for how the parameters affect flexure performance.
 
 ## Design proposal
 Parameters:
